@@ -1,1 +1,1 @@
-# Mysecond
+A simple program to check whether a given year is leap year or not
